@@ -1,0 +1,40 @@
+.about-us-container {
+  position: relative;
+  height: 80vh;
+  z-index: 0;
+  padding: 120px;
+  margin-bottom: 300px;
+  background-position: bottom;
+}
+
+.about-us-container h1 {
+  color: #343740;
+  font-size: 56px;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.about-us-container hr {
+  height: 8px;
+  background-color: #343740;
+  border: none;
+  width: 100px;
+}
+
+.about-us-row-2 {
+  height: 50vh;
+  margin-top: 30px;
+}
+
+.about-us-col {
+  color: #343740;
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  transform: translateY(-300px);
+  padding: 30px;
+  width: 50%;
+  margin-left: 100px;
+  background-color: #fff;
+  box-shadow: 0px 15px 45px 0px rgba(0, 0, 0, 0.15);
+}

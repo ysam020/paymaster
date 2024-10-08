@@ -1,0 +1,40 @@
+.banner-container {
+  background-color: #0a5fad;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: color-burn;
+}
+
+.banner-col-left {
+  padding: 80px;
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.banner-col-left h2 {
+  color: #e2e3e6;
+  font-size: 56px;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.banner-col-left p {
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+
+.banner-col-right {
+  height: 85vh;
+  background-position: center;
+}
+
+.banner-col-left button {
+  width: 100px;
+  border: 2px solid #e2e3e6;
+  border-radius: 30px;
+  color: #e2e3e6;
+  background-color: transparent;
+  padding: 10px 20px;
+}

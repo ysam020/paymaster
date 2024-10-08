@@ -1,0 +1,14 @@
+.nav-logo {
+  font-size: 25px !important;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.nav-list-item {
+  color: #0860ad !important;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 15px;
+  font-weight: 500;
+}

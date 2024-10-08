@@ -1,0 +1,48 @@
+.testimonials-container {
+  background-image: url("../assets/images/about-us-bg.jpg");
+}
+
+.testimonials-row {
+  width: 80% !important;
+  margin: auto;
+  margin-bottom: 80px;
+}
+
+.testimonials-row h2 {
+  color: #0860ad;
+  margin-bottom: 40px;
+}
+
+.testimonials-col {
+  box-shadow: 2px 2px 50px 10px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.testimonials-col img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+.testimonials-col span {
+  margin-top: 20px;
+}
+
+.testimonials-position {
+  color: #0860ad;
+}
+
+.testimonials-col p {
+  font-weight: 400;
+  font-size: 16px;
+}
